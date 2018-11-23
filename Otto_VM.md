@@ -1,0 +1,1 @@
+![Otto_VM.png](Otto_VM.png "Otto_VM.png")

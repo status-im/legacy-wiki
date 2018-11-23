@@ -1,0 +1,1 @@
+1.  REDIRECT [Go Code Quality Notes](Go_Code_Quality_Notes "wikilink")

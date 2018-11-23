@@ -1,0 +1,1 @@
+1.  REDIRECT [Status Open Bounty FAQ](Status_Open_Bounty_FAQ "wikilink")

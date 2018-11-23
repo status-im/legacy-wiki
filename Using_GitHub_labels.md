@@ -1,0 +1,1 @@
+This document describes approach to labeling GitHub issues.

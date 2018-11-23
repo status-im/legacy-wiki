@@ -1,0 +1,1 @@
+  - HotCat\[ResourceLoader|rights=upload|default\]|HotCat.js|Hotcatcheck.js
