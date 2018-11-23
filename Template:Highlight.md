@@ -1,1 +1,0 @@
-<span style="background:{{{2|yellow}}}"></span>
