@@ -1,13 +1,8 @@
-## Universal Links
+## Universal Links (iOS) & Deep Links (Android)
 
-Note: Universal links are WIP and do not work in release builds.
+#### What are Universal & Deep Links
 
-#### What are Universal Links
-
-With universal links, mobile users can tap a link to Status and get
-seamlessly redirected to the Status app and deep linked to specified
-screens without going through Safari or Chrome. If Status isn’t
-installed, tapping a link to the Status website opens a Status website
+With universal links (iOS) and deep links (android) mobile users can tap a link to Status and get seamlessly redirected to the Status app and linked to specified screens without going through the browser. If Status isn’t installed, tapping a link to the Status website opens a Status website
 with info on the link and instructions to download the mobile app.
 
 #### What Links Are Supported
@@ -22,10 +17,11 @@ with info on the link and instructions to download the mobile app.
 <https://get.status.im/browse/>**DAPP-ADDRESS** eg
 <https://get.status.im/browse/www.cryptokitties.co>
 
-##### DApp Browser
+##### Users
 
 <https://get.status.im/user/>**CONTACT-ADDRESS** eg
 <https://get.status.im/user/0x044166fa04e967e333211ae0cc1087c9c74exxx>
+<https://get.status.im/user/name.stateofus.eth>
 
 #### Custom URL Scheme
 

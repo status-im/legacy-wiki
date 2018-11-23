@@ -1,1 +1,0 @@
-1.  REDIRECT [Code of conduct](Code_of_conduct "wikilink")
